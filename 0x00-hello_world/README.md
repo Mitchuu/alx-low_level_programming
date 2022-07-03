@@ -8,3 +8,4 @@ Compiler
 Assembler
 Name
 Hello, printf
+Hello, puts
