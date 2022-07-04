@@ -21,3 +21,4 @@ Size is not grandeur, and territory does not make a nation
 Size is not grandeur, and territory does not make a nation
 Hello, printf
 Hello, printf
+Hello, puts
