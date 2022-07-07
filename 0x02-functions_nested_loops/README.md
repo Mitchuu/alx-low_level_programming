@@ -28,4 +28,7 @@ putchar
     Prototype: int _abs(int);
 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
 8. I'm federal agent Jack Bauer, and today is the longest day of my life 
+9. Learn your times table - Write a function that prints the 9 times table, starting with 0.
+
+    Prototype: void times_table(void);
 
