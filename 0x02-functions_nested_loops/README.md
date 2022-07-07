@@ -26,4 +26,4 @@ putchar
 6. habs.c - Write a function that computes the absolute value of an integer.
 
     Prototype: int _abs(int);
-
+7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
