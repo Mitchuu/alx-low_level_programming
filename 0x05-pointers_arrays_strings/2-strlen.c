@@ -15,4 +15,3 @@ len += 1;
 }
 return (len);
 }
-}
