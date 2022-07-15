@@ -8,4 +8,6 @@
 
 3. strcmp - Write a function that compares two strings.
 
-4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy 
+4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy.
+
+5. Always look up - Write a function that changes all lowercase letters of a string to uppercase. 
