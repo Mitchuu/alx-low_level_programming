@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 
 /** 
  * _strcat -> this is a funcion strcat
