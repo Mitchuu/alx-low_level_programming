@@ -1,4 +1,4 @@
-7-print_chessboard.c
+#include "main.h"
 
 /**
  * print_chessboard - Print the chessboard
